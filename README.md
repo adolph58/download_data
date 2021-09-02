@@ -3,6 +3,8 @@ Linux
 ```
 pip install --upgrade pip
 pip install matplotlib
+pip install pandas
+pip install plotly
 ```
 
 Windows  
